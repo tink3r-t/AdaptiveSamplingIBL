@@ -1,0 +1,19 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+.vs
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+Scenes/
+
+# MSTest test Results
+[Rr]esult*/
+[Bb]uild[Ll]og.*
+
