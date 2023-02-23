@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Source\" />
+    <Folder Include="Source\Tilers\" />
   </ItemGroup>
 
 </Project>
